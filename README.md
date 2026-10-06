@@ -58,4 +58,4 @@
 ### 📋 One Click Copy M3U Link
 
 ```bash
-https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/playlist.m3u
+https://raw.githubusercontent.com/devxhasu/BD-IPTV-ONLY-LIVE-CHANNEL-/refs/heads/main/playlist.m3u
