@@ -133,8 +133,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 #EXTINF:-1 tvg-id="JalshaMovies.in" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/jalsha-movies-hd.png" group-title="Indian Bangla",Jalsha Movie
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="JalshaMovies.Hd" tvg-logo="https://i.imgur.com/25eWjX2.png" group-title="Indian Bangla",Jalsha Movie Hd
-http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.Hd" tvg-logo="https://i.imgur.com/25eWjX2.png" group-title="Indian Bangla",Jalsha Movie Hd update 
+http://103.151.60.162:2122/play/a00x/index.m3u8
 
 # India
 
